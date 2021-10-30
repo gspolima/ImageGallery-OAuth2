@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ImageGallery.Model
+build_property.ProjectDir = C:\Users\Gustavo\code\SecuringAspNetCore3WithOAuth2AndOIDC\src\ImageGallery.Model\
